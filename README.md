@@ -1,8 +1,8 @@
-# OrcamentoPessoal
+# Personal Budget
 
-:zap: Aplicação desenvolvida com HTML/CSS junto com Bootstrap e Font Awesome. Aplicação sem banco de dados, armazenada em "Local Storage" do próprio browser com JavaScript para realização de testes.
+Application developed with HTML/CSS along with Bootstrap. The application is database-free and stored in the browser's own local storage with JavaScript for testing.
 
-Você pode: cadastrar, consultar, pesquisar e deletar seus orçamentos pessoais.
+You can: register, view, search, and delete your personal budgets.
 
 ![Cadastro](https://user-images.githubusercontent.com/62626014/121443095-3c90cd00-c963-11eb-8ad0-d113e9813c40.jpg)
 
